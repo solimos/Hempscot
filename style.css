@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: #29B473;
+}
+
+svg {
+  visibility: hidden;
+  display: block;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: auto;
+  height: 600px;
+}
